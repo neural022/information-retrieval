@@ -30,7 +30,8 @@
 
 * Ranking function follows **`cosine similarity`** :
 
-$$ sim(q,d_{j} )=cos(\theta)=\frac{\vec{q} \cdot \vec{d_{j}}} {|\vec{q}||\vec{d_{j}}|}=\frac{ \color{lime}\overbrace{ \color{silver}\sum_{w_{i}\in{V}} w_{i,q} \times w_{i,j}}^{\text{inner product}}  } {\sqrt{\sum_{w_{i}\in{V}}w^{2}_{i,q} }  \text{ } \color{red}\underbrace{\color{silver}\sqrt{\sum_{w_{i}\in_{V}}w^{2}_{i,j}}}_{\text{vector length}}  } $$
+
+![formula](https://render.githubusercontent.com/render/math?math=sim(q,d_{j} )=cos(\theta)=\frac{\vec{q} \cdot \vec{d_{j}}} {|\vec{q}||\vec{d_{j}}|}=\frac{ \color{lime}\overbrace{ \color{silver}\sum_{w_{i}\in{V}} w_{i,q} \times w_{i,j}}^{\text{inner product}}  } {\sqrt{\sum_{w_{i}\in{V}}w^{2}_{i,q} }  \text{ } \color{red}\underbrace{\color{silver}\sqrt{\sum_{w_{i}\in_{V}}w^{2}_{i,j}}}_{\text{vector length}})
 
 * **Why `cosine similarity` measure instead of `Euclidean distance` measure ?**
     
