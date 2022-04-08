@@ -4,7 +4,7 @@
 ## Definition
 What is the **`information retrieval`** ?
 
-> The primary goal of the IR system is to retrieve information that is useful and relevant to the user's information needs.
+> **The primary goal of the IR system is to retrieve information that is useful and relevant to the user's information needs.**
 
 <br/>
 
@@ -22,7 +22,7 @@ Modeling in IR is divided into two parts:
   * A unit of a set of keywords for a query or doc.
   * Summarize the contents of the doc.
   
-      > Usually, an index term is a word or group of consecutive words in a document.
+      > **Usually, an index term is a word or group of consecutive words in a document**.
 
 <br/>
 
