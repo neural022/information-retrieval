@@ -14,7 +14,7 @@ Modeling in IR is divided into two parts:
      * It refers to represent queries and documents in logical framework concepts.
 2. **Ranking**
       * It aims to allow quantify the similarities among queries and documents.
-      * 
+
 <br/>
 
 
