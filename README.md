@@ -38,6 +38,6 @@ Modeling in IR is divided into two parts:
 * [BERT fusion BM25](https://github.com/neural022/Information-Retrieval/tree/main/BERT(base)%20fusion%20BM25-top-1000)
 
 
-## Metircs
+## Metrics
 * MAP Metrics
 
